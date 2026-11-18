@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "MFRM Sample-Size & Rating-Design Planner"
+message: "If you use this software in your research, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Komuro
+    given-names: Ryuya
+repository-code: "https://github.com/Ryuya-dot-com/mfrm_sample_size_similation"
+url: "https://github.com/Ryuya-dot-com/mfrm_sample_size_similation"
+license: MIT
+version: 0.1.0
+date-released: "2026-11-18"
+keywords:
+  - many-facet Rasch measurement
+  - sample size planning
+  - Monte Carlo simulation
+  - language assessment
+  - R Shiny
