@@ -29,7 +29,7 @@ remotes::install_github("Ryuya-dot-com/mfrmr")
 **Option A — Launch in one line from GitHub (no manual download needed):**
 
 ```r
-shiny::runGitHub("mfrm_sample_size_similation", "Ryuya-dot-com")
+shiny::runGitHub("mfrm_sample_size_simulation", "Ryuya-dot-com")
 ```
 
 **Option B — Clone and run locally (or from an offline peer-review archive):**
@@ -142,7 +142,7 @@ When citing or sharing this tool in a double-anonymized manuscript submission:
    remotes::install_github("Ryuya-dot-com/mfrmr")
    ```
 2. **アプリの起動**：
-   `shiny::runGitHub("mfrm_sample_size_similation", "Ryuya-dot-com")`（ローカル実行時は `shiny::runApp("app.R")`）で起動します。
+   `shiny::runGitHub("mfrm_sample_size_simulation", "Ryuya-dot-com")`（ローカル実行時は `shiny::runApp("app.R")`）で起動します。
 3. **操作の流れ**：
    - **左サイドバー「1. Sample Size & Rater Linking」** で受験者数レンジ `P`、段階数 `K`、評価者数 `R`、割当方式（巡回ローテーション `m` 名／共通アンカー `k` 名／完全交差）をスライダーで設定します。
    - **「2. Additional Facets」** の `+ Add` / `- Remove` で `Criterion`（観点）や `Task`（課題）などの相を自由に追加・削除します（青いボックスに延べ採点数と評価者1人あたり負担が即時表示されます）。

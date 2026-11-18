@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: Komuro
     given-names: Ryuya
-repository-code: "https://github.com/Ryuya-dot-com/mfrm_sample_size_similation"
-url: "https://github.com/Ryuya-dot-com/mfrm_sample_size_similation"
+repository-code: "https://github.com/Ryuya-dot-com/mfrm_sample_size_simulation"
+url: "https://github.com/Ryuya-dot-com/mfrm_sample_size_simulation"
 license: MIT
 version: 0.1.0
 date-released: "2026-11-18"
